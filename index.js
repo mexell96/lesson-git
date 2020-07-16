@@ -1,2 +1,1 @@
-console.log("hello world 11");
-console.log("hello world 22");
+console.log("hello git");
